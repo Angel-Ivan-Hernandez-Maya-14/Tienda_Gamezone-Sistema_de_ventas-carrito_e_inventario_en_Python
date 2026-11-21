@@ -1,0 +1,32 @@
+{
+    "productos": [
+        {
+            "codigo": "G002",
+            "videojuego": "Minecraft",
+            "cantidad": 2,
+            "importe": 998.0
+        },
+        {
+            "codigo": "G001",
+            "videojuego": "DOOM Eternal",
+            "cantidad": 3,
+            "importe": 2097.0
+        },
+        {
+            "codigo": "G003",
+            "videojuego": "The Legend of Zelda: Tears of the Kingdom",
+            "cantidad": 1,
+            "importe": 1199.0
+        },
+        {
+            "codigo": "G002",
+            "videojuego": "Minecraft",
+            "cantidad": 1,
+            "importe": 499.0
+        }
+    ],
+    "subtotal": 4793.0,
+    "descuento": 479.3,
+    "impuesto": 766.88,
+    "total": 5080.58
+}
